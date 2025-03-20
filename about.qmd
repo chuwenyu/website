@@ -1,0 +1,24 @@
+---
+title: "About"
+---
+
+## Research Interests
+
+My primary research interests lie in the intersection of Artificial Intelligence, Natural Language Processing, and Deep Learning. I am particularly interested in exploring novel methods for training large language models.
+
+## Publications
+
+-   "Large Language Models are Zero-Shot Reasoners", NeurIPS, 2022. *Demonstrated that large language models can perform complex reasoning tasks without task-specific training.*
+-   "Chain of Thought Prompting Elicits Reasoning in Large Language Models", ArXiv, 2022. *Introduced a novel prompting technique that significantly improves the reasoning abilities of large language models.*
+-   "Training Compute-Optimal Large Language Models", ArXiv, 2022. *Investigated the relationship between model size, dataset size, and compute budget for training large language models.*
+
+## Skills
+
+-   Programming Languages: Python, R, Java
+-   Tools: TensorFlow, PyTorch, Git, Hugging Face Transformers
+-   Other: Data Analysis, Machine Learning, Statistical Modeling, Natural Language Processing
+
+## Experience
+
+-   Research Assistant, Stanford University, 2020 - 2025
+-   Software Engineering Intern, Google, Summer 2024

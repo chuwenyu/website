@@ -1,0 +1,31 @@
+---
+title: "Home"
+---
+
+::: callout-note
+## Welcome!
+
+I am a recent Ph.D. graduate with a strong passion for leveraging AI to solve real-world problems. This website showcases my academic journey, research achievements, and contact information. I am actively seeking opportunities to contribute to cutting-edge research and development in the field of Artificial Intelligence.
+:::
+
+## About Me
+
+I am Dr. Anya Sharma, a highly motivated and skilled researcher with a Ph.D. in Computer Science from Stanford University. My research interests include Artificial Intelligence, Machine Learning, and Natural Language Processing. I am eager to contribute my expertise to challenging and impactful projects.
+
+## Education
+
+-   **Ph.D. in Computer Science** - Stanford University, 2025
+-   **M.S. in Computer Science** - Stanford University, 2022
+-   **B.S. in Computer Science** - Massachusetts Institute of Technology, 2020
+
+## Honors and Awards
+
+-   Best Paper Award, International Conference on Machine Learning, 2024
+-   Outstanding Graduate Researcher Award, Stanford University, 2023
+-   National Science Foundation Graduate Research Fellowship, 2020-2023
+
+## Contact Information
+
+-   Email: anya.sharma\@example.com
+-   GitHub: github.com/anyasharma
+-   LinkedIn: linkedin.com/in/anyasharma
