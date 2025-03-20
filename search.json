@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome!\n\n\n\nI am a recent Ph.D. graduate with a strong passion for leveraging AI to solve real-world problems. This website showcases my academic journey, research achievements, and contact information. I am actively seeking opportunities to contribute to cutting-edge research and development in the field of Artificial Intelligence."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "About Me",
+    "text": "About Me\nI am Dr. Anya Sharma, a highly motivated and skilled researcher with a Ph.D. in Computer Science from Stanford University. My research interests include Artificial Intelligence, Machine Learning, and Natural Language Processing. I am eager to contribute my expertise to challenging and impactful projects."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Computer Science - Stanford University, 2025\nM.S. in Computer Science - Stanford University, 2022\nB.S. in Computer Science - Massachusetts Institute of Technology, 2020"
+  },
+  {
+    "objectID": "index.html#honors-and-awards",
+    "href": "index.html#honors-and-awards",
+    "title": "Home",
+    "section": "Honors and Awards",
+    "text": "Honors and Awards\n\nBest Paper Award, International Conference on Machine Learning, 2024\nOutstanding Graduate Researcher Award, Stanford University, 2023\nNational Science Foundation Graduate Research Fellowship, 2020-2023"
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "Home",
+    "section": "Contact Information",
+    "text": "Contact Information\n\nEmail: anya.sharma@example.com\nGitHub: github.com/anyasharma\nLinkedIn: linkedin.com/in/anyasharma"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My primary research interests lie in the intersection of Artificial Intelligence, Natural Language Processing, and Deep Learning. I am particularly interested in exploring novel methods for training large language models."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "",
+    "text": "My primary research interests lie in the intersection of Artificial Intelligence, Natural Language Processing, and Deep Learning. I am particularly interested in exploring novel methods for training large language models."
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "About",
+    "section": "Publications",
+    "text": "Publications\n\n“Large Language Models are Zero-Shot Reasoners”, NeurIPS, 2022. Demonstrated that large language models can perform complex reasoning tasks without task-specific training.\n“Chain of Thought Prompting Elicits Reasoning in Large Language Models”, ArXiv, 2022. Introduced a novel prompting technique that significantly improves the reasoning abilities of large language models.\n“Training Compute-Optimal Large Language Models”, ArXiv, 2022. Investigated the relationship between model size, dataset size, and compute budget for training large language models."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Languages: Python, R, Java\nTools: TensorFlow, PyTorch, Git, Hugging Face Transformers\nOther: Data Analysis, Machine Learning, Statistical Modeling, Natural Language Processing"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\nResearch Assistant, Stanford University, 2020 - 2025\nSoftware Engineering Intern, Google, Summer 2024"
+  }
+]
